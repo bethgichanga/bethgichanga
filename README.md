@@ -26,7 +26,7 @@ TensorFlow | Scikit-learn | Raspberry Pi | ESP32
 ![GitHub Streak](https://streak-stats.demolab.com?user=bethgichanga)
 
 ## Contribution Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bethgichanga)
+## ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bethgichanga)
 
 ## Connect With Me
 - 💼 LinkedIn: Beth Gichanga
