@@ -1,120 +1,125 @@
-<h1 align="center">Building Data Systems ⚡</h1>
+<h1 align="center">⚡ Data Engineering Command Center</h1>
 
 <p align="center">
-Data Engineer | Big Data Explorer | AI & IoT Builder | Research Enthusiast
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=bethgichanga&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/bethgichanga?label=FOLLOWERS&style=flat"/>
-<a href="YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue"/>
-</a>
+Data Engineer • AI Systems Builder • Streaming Enthusiast
 </p>
 
 ---
 
-<p align="center">
-<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-<img width="420" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+## ⛓ Pipeline Stack
+
+### Core Data Engineering
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow"/>
+</p>
+
+### Streaming & Messaging
+<p>
+<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka"/>
+<img src="https://img.shields.io/badge/Spark_Streaming-F88909?style=for-the-badge"/>
+</p>
+
+### Cloud & Infrastructure
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 </p>
 
 ---
 
-# About Me
+## 🛰 Data Pipeline Architecture
 
-```yaml
-name: Beth Gichanga
-role: Data Engineer | AI/IoT Engineer
-location: Nairobi, Kenya
+```text
+Sources → Ingestion → Processing → Storage → Analytics
 
-focus:
-  - Data Engineering
-  - Distributed Systems
-  - Real-Time Streaming
-  - Applied AI
-
-currently_learning:
-  - Apache Spark
-  - Kafka
-  - Airflow
-  - Azure Databricks
-
-research:
-  - Smart Mobility Systems
-  - Intelligent Infrastructure
+IoT/API
+  ↓
+Kafka
+  ↓
+Spark / PySpark
+  ↓
+Data Lake / Warehouse
+  ↓
+Dashboards / ML
 ```
 
 ---
 
-# Tech Stack
+## 🚀 Flagship Systems
 
-## Core Data Engineering
+<table>
+<tr>
+<td width="50%">
 
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
-![PySpark](https://img.shields.io/badge/PySpark-black?style=for-the-badge)
-![Airflow](https://img.shields.io/badge/Airflow-black?style=for-the-badge)
+### 🚗 Smart Traffic V2X
+Real-time intelligent traffic safety system.
 
-## Streaming & Messaging
+</td>
+<td width="50%">
 
-![Kafka](https://img.shields.io/badge/Apache_Kafka-black?style=for-the-badge)
-![Spark Streaming](https://img.shields.io/badge/Spark_Streaming-black?style=for-the-badge)
+### 💧 HAQUA
+AI-powered equitable water-sharing platform.
 
-## Cloud & Infrastructure
+</td>
+</tr>
 
-![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge)
-![Databricks](https://img.shields.io/badge/Databricks-black?style=for-the-badge)
+<tr>
+<td>
 
-## AI / Intelligence
+### 🔥 Fire Detection AI
+Embedded AI + IoT suppression system.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-black?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-black?style=for-the-badge)
+</td>
+<td>
 
----
+### 📊 Data Engineering Lab
+ETL • Streaming • Warehousing
 
-# Featured Systems
-
-### Smart Traffic Management using V2X
-Intelligent road safety system using connected vehicle communication.
-
-### HAQUA
-AI-driven equitable water-sharing platform.
-
-### Fire Detection AI System
-Embedded AI + IoT fire detection and suppression.
-
-### Data Engineering Portfolio
-ETL • Streaming • Warehousing • Analytics
+</td>
+</tr>
+</table>
 
 ---
 
-# GitHub Analytics
+## 📈 Engineering Metrics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bethgichanga&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bethgichanga&theme=tokyonight&show_icons=true"/>
 <img src="https://streak-stats.demolab.com?user=bethgichanga&theme=tokyonight"/>
 </p>
 
+---
+
+## ⚙ Current Focus
+
+```yaml
+building:
+  - Batch ETL pipelines
+  - Real-time streaming systems
+  - Cloud data solutions
+
+research:
+  - Intelligent transportation
+  - Data-driven infrastructure
+
+next:
+  - Kafka projects
+  - Airflow orchestration
+  - Open-source contributions
+```
 
 ---
 
-# Pinned Projects
+## 🧠 Tech Domains
 
-📌 ETL-Pipeline-with-PySpark  
-📌 Kafka-Streaming-Labs  
-📌 Azure-Data-Engineering  
-📌 Smart-Traffic-V2X  
-📌 HAQUA  
-📌 Fire-Detection-IoT
-
----
-
-# 2026 Mission
-
-```bash
-[✓] Build scalable data pipelines
-[✓] Publish IEEE research
-[ ] Contribute to open source
+```diff
++ Data Engineering
++ Big Data
++ Distributed Systems
++ Streaming Analytics
++ AI + IoT
 ```
