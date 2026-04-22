@@ -1,7 +1,7 @@
-<h1 align="center">⚡ Data Engineering Command Center</h1>
+<h1 align="center"> 👋Hi, I am Beth </h1>
 
 <p align="center">
-Data Engineer • AI Systems Builder • Streaming Enthusiast
+Data Engineer • AI Systems Builder 
 </p>
 
 ---
@@ -110,6 +110,7 @@ next:
   - Kafka projects
   - Airflow orchestration
   - Open-source contributions
+  - Publications
 ```
 
 ---
