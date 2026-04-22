@@ -65,7 +65,6 @@ research:
 
 ![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge)
 ![Databricks](https://img.shields.io/badge/Databricks-black?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge)
 
 ## AI / Intelligence
 
@@ -98,9 +97,6 @@ ETL • Streaming • Warehousing • Analytics
 <img src="https://streak-stats.demolab.com?user=bethgichanga&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bethgichanga&theme=tokyo-night"/>
-</p>
 
 ---
 
