@@ -1,6 +1,6 @@
-<h1 align="center"> 👋Hi, I am Beth </h1>
+<h1 align="center"> Hi, I am Beth </h1>
 <p align="center">
-Data Engineer • AI Systems Builder 
+ IoT, ML & AI Systems R&D
 </p>
 
 ---
@@ -44,8 +44,6 @@ Sources → Ingestion → Processing → Storage → Analytics
 
 IoT/API
   ↓
-Kafka
-  ↓
 Spark / PySpark
   ↓
 Data Lake / Warehouse
@@ -88,15 +86,6 @@ ETL • Streaming • Warehousing
 </tr>
 </table>
 
----
-
-## 📈 Engineering Metrics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bethgichanga&theme=tokyonight&show_icons=true"/>
-<img src="https://streak-stats.demolab.com?user=bethgichanga&theme=tokyonight"/>
-</p>
-
----
 
 ## ⚙ Current Focus
 
@@ -106,11 +95,9 @@ building:
   - Real-time streaming systems
   - Cloud data solutions
 research:
-  - Intelligent transportation
+  - (I)IOT Security
   - Data-driven infrastructure
 next:
-  - Kafka projects
-  - Airflow orchestration
   - Open-source contributions
   - Publications
 ```
@@ -123,7 +110,6 @@ next:
 + Data Engineering
 + Big Data
 + Distributed Systems
-+ Streaming Analytics
 + AI + IoT
 + Machine Learning
 ```
